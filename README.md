@@ -6,36 +6,48 @@ A [Balatro](https://www.playbalatro.com/) mod starring our five cats, our dog Lo
 
 ## Jokers
 
-### The animals
-Our five cats and our dog. The cats are **Kitties** and the dog is a **Pupper**. Most of them have a cap on how strong they get, and that cap rises with every other Kitty you have out.
+Numbers are what each card shows when you first find it. Kitties and Puppers grow from there, and most of them can go higher the more animals you have out.
+
+### The Kitties
+
+Every cat in play raises the maximum each of the others can reach.
 
 | Joker | Rarity | What it does |
 |---|---|---|
-| **Blinkie** | Common | +Chips. Gains more Chips at the end of any round where you discarded nothing. |
-| **Booger** | Uncommon | X Mult. At the end of each round he swaps places with a neighbouring Joker and gains X Mult. A Pupper won't let him past. |
-| **Oranch** | Uncommon | Retriggers the first scored card, one extra time while all five Kitties are out. |
-| **Gatsby** | Uncommon | Pays out at the end of each round for every other Joker, and more for every other Kitty. |
-| **Loki Poki** | Uncommon | X Mult that grows every round and resets if he moves. Jokers beside him can't be moved. |
-| **Finn** | Rare | X Mult that grows with every hand played and resets at the end of the round. |
+| **Blinkie** | Common | +25 Chips<br>Gains +25 Chips at end of round<br>if you discarded nothing<br>(Max +150 Chips)<br>Rises with every other Kitty<br>*She slept through the whole thing.* |
+| **Booger** | Uncommon | X1 Mult<br>At end of round, swaps places with a<br>neighbouring Joker and gains X0.25<br>(Max X2.5)<br>Rises with every other Kitty<br>A Pupper won't let him past<br>*Booger shows no remorse.* |
+| **Gatsby** | Uncommon | At end of round, earn $1<br>for each other Joker and<br>$2 for each other Kitty<br>(Max $5)<br>*The parties were never for the guests.* |
+| **Oranch** | Uncommon | The first scored card is<br>retriggered 1 extra time<br>+1 while all 5 Kitties are out<br>*He is not done asking.* |
+| **Finn** | Rare | X1 Mult<br>Gains X0.5 Mult per hand played,<br>resets at end of round<br>(Max X3)<br>Rises with every other Kitty<br>*He's already in the other room.* |
 
-### The VTubers
+### The Puppers
+
+Dogs are not fussy: every animal in play raises his maximum, Kitties included.
 
 | Joker | Rarity | What it does |
 |---|---|---|
-| **Nanoqoi** | Uncommon | +Mult. Might swap places with a random Joker after each hand, and might turn into Nanothicc at the end of the round. |
-| **Bwuggu** | Uncommon | Each hand, does one at random: +Mult, X Mult, earns money or steals it. Might eat a consumable at the end of the round for permanent +Mult. |
-| **Warrant** | Uncommon | X Mult. When a blind's first hand is drawn, might take a card from it for good and gain X Mult. |
-| **Nanothicc** | Legendary | +Chips and X Mult. Might make another Joker Foil after each hand. |
-| **Capias** | Legendary | Every scored card gets a random gift: Chips, Mult, X Mult or money. |
+| **Loki Poki** | Uncommon | X1 Mult<br>Gains X0.3 Mult at end of round,<br>resets if he moves<br>(Max X2)<br>Jokers beside him can't be moved<br>Rises with every other animal, Kitties too<br>*He found the warm spot first.* |
+
+### Best VTubers
+
+| Joker | Rarity | What it does |
+|---|---|---|
+| **Bwuggu** | Uncommon | Each hand, does one at random:<br>+20 Mult, X2 Mult,<br>earns $4 or steals $2<br>1 in 3 chance to eat a consumable<br>at end of round for +5 Mult forever<br>*Do not feed after midnight. Or before.* |
+| **Nanoqoi** | Uncommon | +15 Mult<br>1 in 3 chance to swap places<br>with a random Joker after each hand<br>1 in 20 chance to become<br>Nanothicc at end of round<br>*She will not stop saying hi.* |
+| **Warrant** | Uncommon | X1.5 Mult<br>When a blind's first hand is drawn,<br>1 in 2 chance to take a card<br>from it forever and gain X0.25<br>*It already knows your name.* |
+| **Capias** | Legendary | Every scored card gets a random gift:<br>+30 Chips, +8 Mult,<br>X1.5 Mult or $1<br>*She means well. Mostly.* |
+| **Nanothicc** | Legendary | +100 Chips and X3 Mult<br>1 in 4 chance after each hand<br>to make another Joker Foil<br>*Same Nano. More of her.* |
 
 ## Everything else
 
-- **Cat Seal:** the card permanently gains +Mult each time it's scored. The cap rises with every Kitty in play.
-- **Catnip** (edition): X Mult, and the card counts as one more Kitty toward its own cap.
-- **The Vet** (boss blind): Kitties and Puppers give no group bonus and don't grow that round.
-- **Cat Pack** (booster): pick from a handful of Kitties.
-- **The Kitties Deck:** start with a random Kitty and an extra Joker slot.
-- **The Household** (challenge): every animal starts in your Joker row as Eternal, filling every slot, and you earn no interest. You play the whole run with the animals you start with.
+| Name | Type | What it does |
+|---|---|---|
+| **Cat Seal** | Seal | When this card is scored,<br>it permanently gains +1 Mult<br>(Max +5)<br>Rises with every Kitty in play<br>*A cat picked this one.* |
+| **Catnip** | Edition | X1.25 Mult<br>Counts as one more Kitty<br>for this card's own maximum |
+| **The Vet** | Boss blind | Kitties and Puppers give<br>no group bonus, and gain<br>nothing this round |
+| **Cat Pack** | Booster pack | Choose 1 of up to<br>3 Kitties |
+| **The Kitties Deck** | Deck | Start with a random Kitty<br>and +1 Joker slot |
+| **The Household** | Challenge | Start with Blinkie, Booger, Finn, Gatsby, Loki Poki and Oranch, all Eternal. Rules: no interest, 6 Joker slots. |
 
 By default only this mod's jokers show up in shops and packs. To mix the base game's jokers back in, turn off **Only Nanoqoi's Balatro Additions jokers appear** in the mod's settings.
 
